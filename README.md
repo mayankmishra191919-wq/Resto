@@ -1,2 +1,2 @@
 # Resto
-#my first online food delevry frontend
+#my first online food delivery frontend
